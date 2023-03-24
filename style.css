@@ -1,8 +1,11 @@
+* {
+    font-family: Verdana, Arial, sans-serif;
+}
+
 .title {
     background-color: lightgrey;
     text-align: center;
     color: rgb(202, 181, 22);
-    font-family: Verdana, Arial, sans-serif;
     padding: 5px;
 }
 
@@ -26,4 +29,27 @@ a {
 
 a:hover {
     text-decoration: underline;
+}
+
+img {
+    display: block;
+    float: left;
+    height: auto;
+    width: auto;
+}
+
+.recipe {
+    display: block;
+    float: inline;
+    margin-left: 780px;
+    margin-right: 10px;
+}
+
+h1.title{
+    color: rgb(135, 135, 207);
+}
+
+.recipe p {
+    color: rgb(123, 27, 27);
+    font-weight: bold;
 }
