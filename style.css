@@ -1,0 +1,29 @@
+.title {
+    background-color: lightgrey;
+    text-align: center;
+    color: rgb(202, 181, 22);
+    font-family: Verdana, Arial, sans-serif;
+    padding: 5px;
+}
+
+.recipes-list {
+    text-align: center;
+    background-color: rgb(230, 228, 228);
+    padding: 3px;
+    margin-top: -22px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.recipes-list-element {
+    margin: 5px;
+}
+
+a {
+    text-decoration: none;
+    color: green;
+}
+
+a:hover {
+    text-decoration: underline;
+}
